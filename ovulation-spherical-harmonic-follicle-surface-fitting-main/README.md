@@ -1,4 +1,4 @@
-This repository hosts the data processing pipeline for the follicle surface fitting method used in "Ovulation visualized in live mice". You will not be able to run this pipeline as-is without the Imaris image files. This code has been provided for reference and review purposes only; no attempt was made to facilitate use in a cross-platform environment.
+This repository hosts the data processing pipeline for the follicle surface fitting method used in "In vivo dynamics of ovulation and oocyte entrance into the oviduct in mice". You will not be able to run this pipeline as-is without the Imaris image files. This code has been provided for reference and review purposes only; no attempt was made to facilitate use in a cross-platform environment.
 
 Broadly, the data processing pipeline steps are as follows:
 1. Preprocess the Imaris files to list metadata.
